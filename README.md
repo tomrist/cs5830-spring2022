@@ -10,6 +10,8 @@ cryptographic algorithms within broader projects.
 
 Classroom: Bloomberg Center 131
 
+Lecture time: 2:45pm-4:00pm Monday/Wednesday
+
 Instructor: Tom Ristenpart (https://rist.tech.cornell.edu)
 
 Office hours: TBA
@@ -28,12 +30,7 @@ understand basic probability, know binary representations (ASCII), operations on
 bit strings (XOR), have some background on computer networking, file systems,
 etc.  Equivalent of CS2800 (Discrete Mathematics) and comfort with reasoning
 about algorithms, such as proving their correctness and analyzing their running
-times, or permission of instructor.  The main skill that will be assumed is the
-ability to understand and write formal mathematical definitions and proofs. It
-is also important that you are familiar with basic probability (although we will
-recall some basic concepts); please refresh yourself by reading Chapter 5 in the
-following lecture notes: http://www.cs.cornell.edu/~rafael/discmath.pdf) If in
-doubt talk to the instructors.
+times, or permission of instructor.  
 
 ### Requirements
 
@@ -47,6 +44,8 @@ homeworks, a prelim, and a final. You'll be graded according to the following:
 There will be several opportunities for extra credit, as well. The current plan
 is to have four homework assignments spread across the semester. Details and
 schedule will be released in the first week of class. 
+
+The final will be a take-home final exam, with short answer questions.
 
 
 ### One unit project
@@ -63,7 +62,6 @@ with cryptographic mechanisms.
 The following books should be helpful, but none are required if you don't want to spend the money:
 
 
-* Portions of the course will take advantage of these lecture notes: http://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf
 * [Cryptography 101 by Houtven](https://www.crypto101.io/). Free, but not complete. Feel free to send helpful feedback to the author.
 
 * [Cryptography Engineering by Ferguson, Schneier, and Kohno](https://www.schneier.com/books/cryptography_engineering/). A gentle
