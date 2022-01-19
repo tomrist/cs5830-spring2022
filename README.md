@@ -74,8 +74,6 @@ The following books should be helpful, but none are required if you don't want t
 
 ## Lecture schedule
 
-A very preliminary schedule is below to give a taste of the scope of
-what we're hoping to cover.  
 The lecture schedule is available
 [here](https://docs.google.com/spreadsheets/d/1CQtPZT0uAZuJ0WWg_TUXE1RvTmohK6_BM-T3mf_b4F4/edit?usp=sharing).
 Lectures will be a mixture of remote (Zoom, check Canvas or Slack for the link)
