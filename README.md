@@ -16,7 +16,7 @@ Instructor: Tom Ristenpart (https://rist.tech.cornell.edu)
 
 Office hours: TBA
 
-TAs: Yan Ji (yj348@cornell.edu), Senkath Menda (sm2289@cornell.edu)
+TAs: Yan Ji (yj348@cornell.edu), Sanketh Menda (sm2289@cornell.edu)
 
 TA Office hours: TBA
 
