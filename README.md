@@ -18,7 +18,7 @@ Office hours: TBA
 
 TAs: Yan Ji (yj348@cornell.edu), Sanketh Menda (sm2289@cornell.edu)
 
-TA Office hours: TBA
+TA Office hours: Tuesday, 9:30-10:30am, [Zoom](https://cornell.zoom.us/j/3920044821?pwd=cURUZjg3VEtRM0xSeEV6TDBPU0R0UT09). You may also join the #office-hours channel on Slack for virtual OH and expect TA response in 24h.
 
 You will be invited to a class slack, which we will use for announcements, Q&A,
 etc.  Contact Yan if you are having trouble getting onto it.
