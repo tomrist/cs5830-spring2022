@@ -50,12 +50,16 @@ The final will be a take-home final exam, with short answer questions.
 
 ### One unit project
 
-Those enrolling for an extra unit of credit will conduct a semester-long
+In prior years there was need to support students signing up for an additional
+unit of credit, but there was no plan to offer it this year. If you are
+interested in doing a project for extra credit, let me know. 
+
+~~Those enrolling for an extra unit of credit will conduct a semester-long
 project. We will provide example project ideas in the first two weeks of class,
 and work with students to refine the projects. Projects could be a deep-dive
 into some specific area of cryptography, an implementation project for some
 state-of-the-art cryptography, or augmenting some other project of your interest
-with cryptographic mechanisms. 
+with cryptographic mechanisms.~~ 
 
 ### Background reading and Lecture note
 
