@@ -41,6 +41,9 @@ homeworks, a prelim, and a final. You'll be graded according to the following:
 * Homeworks:  60% (each homework will count an equal amount)
 * Final:  30% 
 
+**Late Days.** Homeworks are due on the due date by 11:59:59pm EST. You can
+use in total 3 late days throughout the semester.
+
 There will be several opportunities for extra credit, as well. The current plan
 is to have four homework assignments spread across the semester. Details and
 schedule will be released in the first week of class. 
